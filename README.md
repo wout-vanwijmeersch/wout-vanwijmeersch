@@ -6,17 +6,32 @@
       <td style="width: 70%; vertical-align: top;">
         <h2>About Me</h2>
         <p>
-          Hi 👋, I'm Wout Van Wijmeersch, a Computer Science student from Belgium, passionate about problem-solving and technology. I'm currently in the process of expanding my knowledge in programming languages like 
+          Hi 👋, I'm Wout Van Wijmeersch, a Computer Science student from Belgium, passionate about problem-solving and technology. I'm currently in the process of expanding my knowledge in programming languages like
           C#, Kotlin and Godot. I enjoy expressing my creativity in UI design.
         </p>
+        <div style="width: 50%;">
+          <div class='container'>
+            <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=wout-vanwijmeersch&show_icons=true&theme=blue-green" />
+              &nbsp;
+              &nbsp;
+            <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wout-vanwijmeersch&theme=blue-green& langs_count=8&layout=compact" />
+            <img src="https://komarev.com/ghpvc/?username=wout-vanwijmeersch"></img>
+          </div>
+        </div>
       </td>
       <td style="width: 30%; vertical-align: top;">
         <h2>Social Links</h2>
         <ul>
-          <li><a href="https://github.com/wout-vanwijmeersch" target="_blank">GitHub</a></li>
+          <li><a src="https://github.com/wout-vanwijmeersch" target="_blank">GitHub</a></li>
+        </ul>
+        <h2>Current Projects</h2>
+        <ul>
+          <li>Portfolio Website</li>
+          <li>2D RPG Game In Godot</li>
         </ul>
       </td>
     </tr>
+
   </table>
 </div>
 
