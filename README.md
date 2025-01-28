@@ -14,7 +14,6 @@
             <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=wout-vanwijmeersch&show_icons=true&theme=blue-green" />
               &nbsp;
               &nbsp;
-            <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wout-vanwijmeersch&theme=blue-green& langs_count=8&layout=compact" />
             <img src="https://komarev.com/ghpvc/?username=wout-vanwijmeersch"></img>
           </div>
         </div>
