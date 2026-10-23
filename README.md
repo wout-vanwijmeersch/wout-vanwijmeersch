@@ -53,6 +53,4 @@ Applied Computer Science graduate with experience developing software applicatio
 
 ## Github statistics
 
-<img src="https://komarev.com/ghpvc/?username=wout-vanwijmeersch"></img>
-
 [![Wout Van Wijmeersch](https://github-stats-extended.vercel.app/api/?username=wout-vanwijmeersch&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Wout+Van+Wijmeersch&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github-stats-extended.vercel.app/api/?username=wout-vanwijmeersch&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Wout+Van+Wijmeersch&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
