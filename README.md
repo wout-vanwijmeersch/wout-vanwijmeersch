@@ -12,46 +12,44 @@
 
 Applied Computer Science graduate with experience developing software applications using technologies such as Angular, Laravel and Java. Passionate about building modern, user-friendly, and reliable software solutions. Eager to explore new technologies and continuously develop technical skills through hands-on projects, practical learning and problem-solving.
 
-## Skills
+<div style="display: flex; gap: 30px; align-items: flex-start;">
 
-<table width="100%">
-  <tr>
-    <td width="30%" valign="top">
-      <h3>Soft Skills</h3>
-      <ul>
-        <li>Problem-solving</li>
-        <li>Motivated</li>
-        <li>Eager to learn</li>
-        <li>Flexibility</li>
-      </ul>
-    </td>
-    <td width="70%" valign="top">
-      <h3>Hard Skills</h3>
-      <table width="100%">
-        <tr>
-          <th align="left">Category</th>
-          <th align="left">Technology</th>
-        </tr>
-        <tr>
-          <td valign="top"><strong>Languages</strong></td>
-          <td>JavaScript, Java, Python, C#, PHP, Kotlin</td>
-        </tr>
-        <tr>
-          <td valign="top"><strong>Frameworks &amp; Platforms</strong></td>
-          <td>React, Angular, Node.js, Spring Boot, Blazor, .NET, Laravel</td>
-        </tr>
-        <tr>
-          <td valign="top"><strong>Databases</strong></td>
-          <td>MySQL, MongoDB, Redis, Neo4j, PostgreSQL</td>
-        </tr>
-        <tr>
-          <td valign="top"><strong>Other</strong></td>
-          <td>Docker, Git, Windows, Ubuntu, Raspbian, VirtualBox</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+  <div style="width: 30%;">
+    <h3>Soft Skills</h3>
+    <ul>
+      <li>Problem-solving</li>
+      <li>Motivated</li>
+      <li>Eager to learn</li>
+      <li>Flexibility</li>
+    </ul>
+  </div>
+
+  <div style="width: 70%;">
+    <h3>Hard Skills</h3>
+    <table width="100%">
+      <tr>
+        <th align="left">Category</th>
+        <th align="left">Technology</th>
+      </tr>
+      <tr>
+        <td valign="top"><strong>Languages</strong></td>
+        <td>JavaScript, Java, Python, C#, PHP, Kotlin</td>
+      </tr>
+      <tr>
+        <td valign="top"><strong>Frameworks &amp; Platforms</strong></td>
+        <td>React, Angular, Node.js, Spring Boot, Blazor, .NET, Laravel</td>
+      </tr>
+      <tr>
+        <td valign="top"><strong>Databases</strong></td>
+        <td>MySQL, MongoDB, Redis, Neo4j, PostgreSQL</td>
+      </tr>
+      <tr>
+        <td valign="top"><strong>Other</strong></td>
+        <td>Docker, Git, Windows, Ubuntu, Raspbian, VirtualBox</td>
+      </tr>
+    </table>
+  </div>
+</div>
 
 ## Github statistics
 
