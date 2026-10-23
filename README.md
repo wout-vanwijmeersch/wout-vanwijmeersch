@@ -1,37 +1,30 @@
-<table width="100%">
-  <tr>
-    <td width="170" valign="middle">
-      <img
-        src="./images/avatar.JPG"
-        width="150"
-        height="150"
-        alt="Portrait Wout Van Wijmeersch"
-        style="border-radius: 50%; object-fit: cover; object-position: center 30%;"
-      />
-    </td>
-    <td valign="middle" style="padding-left: 24px;">
-      <div style="font-size: 32px; font-weight: bold; white-space: nowrap;">
-        Wout Van Wijmeersch
-      </div>
-      <div style="font-size: 24px; color: #666; margin-top: 8px;">
-        Full Stack Developer
-      </div>
-    </td>
-    <td align="right" valign="middle" style="padding-left: 24px;">
-      <div style="margin-bottom: 8px;">
-        <a href="https://www.woutvanwijmeersch.be">
-          woutvanwijmeersch.be
-        </a>
-      </div>
-      <div>
-        <a href="mailto:contact@woutvanwijmeersch.be">
-          contact@woutvanwijmeersch.be
-        </a>
-      </div>
-    </td>
+<div style="display: flex; align-items: center; gap: 24px; width: 100%;">
+  <img
+    src="./images/avatar.JPG"
+    alt="Portrait Wout Van Wijmeersch"
+    width="150"
+    height="150"
+    style="border-radius: 50%; object-fit: cover; object-position: center 30%;"
+  />
 
-  </tr>
-</table>
+  <div style="display: flex; flex-direction: column; gap: 8px;">
+    <span style="font-size: 32px; font-weight: bold;">
+      Wout Van Wijmeersch
+    </span>
+    <span style="font-size: 24px; color: #666;">
+      Full Stack Developer
+    </span>
+  </div>
+
+  <div style="margin-left: auto; display: flex; flex-direction: column; gap: 8px; text-align: right;">
+    <a href="https://www.woutvanwijmeersch.be">
+      woutvanwijmeersch.be
+    </a>
+    <a href="mailto:contact@woutvanwijmeersch.be">
+      contact@woutvanwijmeersch.be
+    </a>
+  </div>
+</div>
 
 ## About
 
