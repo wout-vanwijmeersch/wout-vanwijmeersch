@@ -1,30 +1,12 @@
-<div style="display: flex; align-items: center; gap: 24px; width: 100%;">
-  <img
-    src="./images/avatar.JPG"
-    alt="Portrait Wout Van Wijmeersch"
-    width="150"
-    height="150"
-    style="border-radius: 50%; object-fit: cover; object-position: center 30%;"
-  />
+<p>
+  <img src="./images/banner.svg" width="100%" alt="Wout Van Wijmeersch — Full Stack Developer">
+</p>
 
-  <div style="display: flex; flex-direction: column; gap: 8px;">
-    <span style="font-size: 32px; font-weight: bold;">
-      Wout Van Wijmeersch
-    </span>
-    <span style="font-size: 24px; color: #666;">
-      Full Stack Developer
-    </span>
-  </div>
+<a href="https://www.woutvanwijmeersch.be">woutvanwijmeersch.be</a>
+&nbsp; · &nbsp;
+<a href="mailto:contact@woutvanwijmeersch.be">contact@woutvanwijmeersch.be</a>
 
-  <div style="margin-left: auto; display: flex; flex-direction: column; gap: 8px; text-align: right;">
-    <a href="https://www.woutvanwijmeersch.be">
-      woutvanwijmeersch.be
-    </a>
-    <a href="mailto:contact@woutvanwijmeersch.be">
-      contact@woutvanwijmeersch.be
-    </a>
-  </div>
-</div>
+</p>
 
 ## About
 
