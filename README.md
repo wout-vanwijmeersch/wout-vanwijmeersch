@@ -2,7 +2,7 @@
   <img src="./images/banner.svg" width="100%" alt="Wout Van Wijmeersch — Full Stack Developer">
 </p>
 
-<a href="https://www.woutvanwijmeersch.be">woutvanwijmeersch.be</a>
+<a href="https://www.woutvanwijmeersch.be" target ="blank">woutvanwijmeersch.be</a>
 &nbsp; · &nbsp;
 <a href="mailto:contact@woutvanwijmeersch.be">contact@woutvanwijmeersch.be</a>
 
